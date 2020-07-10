@@ -1,8 +1,11 @@
 {
 "bing.com":"#vs_cont,#bnp_hfly",
+"msn.com":".pollmodule,.adlinks",
+"twitter.com":"aria-label['Who to follow'],aria-label['Timeline: Trending now']",
+
+"askubuntu.com":".s-sidebarwidget,#hot-network-questions",
+"serverfault.com":".s-sidebarwidget,#hot-network-questions"
 "stackoverflow.com":".s-sidebarwidget,#hot-network-questions",
 "superuser.com":".s-sidebarwidget,#hot-network-questions",
-"askubuntu.com":".s-sidebarwidget,#hot-network-questions",
 "stackexchange.com":".s-sidebarwidget,#hot-network-questions",
-"serverfault.com":".s-sidebarwidget,#hot-network-questions"
 }
