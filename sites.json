@@ -1,3 +1,8 @@
 {
 "bing.com":"#vs_cont,#bnp_hfly"
+"stackoverflow.com":".s-sidebarwidget,#hot-network-questions",
+"superuser.com":".s-sidebarwidget,#hot-network-questions",
+"askubuntu.com":".s-sidebarwidget,#hot-network-questions",
+"stackexchange.com":".s-sidebarwidget,#hot-network-questions",
+"serverfault.com":".s-sidebarwidget,#hot-network-questions"
 }
